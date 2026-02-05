@@ -53,3 +53,11 @@ Sebelum menginstal, pastikan komputer Anda sudah terpasang:
 * [PHP](https://www.php.net/) (Versi 8.x ke atas)
 * [Composer](https://getcomposer.org/)
 * Database Server (MySQL/MariaDB)
+
+* ## 🚀 Langkah Instalasi
+
+Ikuti langkah-langkah berikut secara berurutan:
+
+### 1. Clone Repositori
+Buka terminal dan jalankan perintah:
+```bashgit clone [https://github.com/rubuproject/himaaweb.git](https://github.com/rubuproject/himaaweb.git)cd himaaweb
