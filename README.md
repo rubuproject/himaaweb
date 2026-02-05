@@ -46,3 +46,10 @@ Himaaweb adalah aplikasi manajemen organisasi mahasiswa yang dirancang untuk mem
 - [Kontribusi](#-kontribusi)
 
 ---
+
+## ⚙️ Prasyarat
+Sebelum menginstal, pastikan komputer Anda sudah terpasang:
+* [Node.js](https://nodejs.org/) (Versi terbaru/LTS)
+* [PHP](https://www.php.net/) (Versi 8.x ke atas)
+* [Composer](https://getcomposer.org/)
+* Database Server (MySQL/MariaDB)
