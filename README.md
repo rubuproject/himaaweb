@@ -22,3 +22,20 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di lingkungan lokal 
    ```bash
   git clone [https://github.com/rubuproject/himaaweb.git](https://github.com/rubuproject/himaaweb.git)
    cd himaaweb
+
+
+   # 🏛️ Himaaweb - Sistem Informasi Himpunan Mahasiswa
+
+Himaaweb adalah aplikasi manajemen organisasi mahasiswa yang dirancang untuk memudahkan administrasi, pengelolaan anggota, dan penyampaian informasi secara digital.
+
+---
+
+## 📌 Daftar Isi
+- [Tentang Proyek](#-tentang-proyek)
+- [Fitur Utama](#-fitur-utama)
+- [Prasyarat](#-prasyarat)
+- [Langkah Instalasi](#-langkah-instalasi)
+- [Penggunaan](#-penggunaan)
+- [Kontribusi](#-kontribusi)
+
+---
