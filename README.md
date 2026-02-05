@@ -12,3 +12,13 @@
 * **Dashboard Admin:** Panel kontrol yang mudah digunakan untuk pengurus.
 *  **untuk daftar kulum kemarin.
   BELAJAR MEMBUAT WEBSITE
+
+
+## 🛠️ Panduan Instalasi
+
+Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di lingkungan lokal Anda:
+
+1. **Clone Repositori**
+   ```bash
+  git clone [https://github.com/rubuproject/himaaweb.git](https://github.com/rubuproject/himaaweb.git)
+   cd himaaweb
