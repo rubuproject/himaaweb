@@ -1,4 +1,4 @@
-# Himaaweb - Sistem Informasi Himpunan Mahasiswa
+# Himaaweb -  Himpunan Mahasiswa informatika 
 
 [![Project Status](https://img.shields.io/badge/status-development-orange.svg)](https://github.com/rubuproject/himaaweb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
