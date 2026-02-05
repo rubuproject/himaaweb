@@ -15,7 +15,14 @@
 
 
 ## 🛠️ Panduan Instalasi
+## 📖 Tentang Proyek
+Proyek ini dikembangkan oleh **rubuproject** untuk memberikan solusi platform terpusat bagi Himpunan Mahasiswa. Fokus utama aplikasi ini adalah efisiensi kerja pengurus dan kemudahan akses informasi bagi anggota.
 
+## ✨ Fitur Utama
+* ✅ **Dashboard Admin:** Monitoring data secara real-time.
+* ✅ **Manajemen Anggota:** Database anggota terpusat.
+* ✅ **Manajemen Konten:** Publikasi berita, artikel, dan pengumuman.
+* ✅ **Pendaftaran Event:** Sistem pendaftaran kegiatan internal/eksternal.
 Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di lingkungan lokal Anda:
 
 1. **Clone Repositori**
